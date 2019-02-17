@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: KRVL
-subtitle:
+title: Junior Carvalho
+subtitle: asd
 description:
 keywords:
 author: Junior Carvalho
-language:
+language: pt-BR
 timezone:
 
 # URL
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: polarbear
+theme: anatole
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -81,3 +81,9 @@ deploy:
   type: git
   repo: git@github-personal:juniorkrvl/juniorkrvl.github.io.git
   branch: master
+
+archive_generator:
+  per_page: 0  
+  yearly: false
+  monthly: false
+  daily: false
