@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: KRVL
 subtitle:
 description:
 keywords:
-author: John Doe
+author: Junior Carvalho
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://juniorkrvl.github.io/
-root: /
+root: /juniorkrvl.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -79,5 +79,5 @@ theme: polarbear
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github-personal:juniorkrvl/krvl-blog.git
+  repo: git@github-personal:juniorkrvl/juniorkrvl.github.io.git
   branch: master
